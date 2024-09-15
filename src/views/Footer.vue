@@ -3,7 +3,7 @@
     <div class="footer">
       <div>
         <div class="author">
-          <div>©2020</div>
+          <div>©2024</div>
           <template v-for="(item, index) in author" :key="index">
             <a style="margin-left: 5px" v-if="index > 0">&</a>
             <a style="margin-left: 5px" :href="item.url" target="_blank">{{ item.name }}</a>
