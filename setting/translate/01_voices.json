@@ -1,21 +1,847 @@
 [
   {
-    "name": "好耶",
-    "path": "好耶.mp3",
-    "date": "2020-11-25",
+    "name": "自我介绍-中",
+    "path": "自我介绍-中.mp3",
+    "date": "2024-06-16",
     "translate": {
-      "zh-CN": "好耶",
-      "en-US": "Haoye"
+      "zh-CN": "自我介绍-中",
+      "en-US": "自我介绍-中"
     },
-    "usePicture": {
-      "zh-CN": "好耶.jpg",
-      "en-US": "好耶.jpg"
-    },
-    "category": "名言",
-    "mark": {
-      "title": "【Hiiro Record】11.24 Tue.读棉花糖",
-      "time": "59:33~59:34",
-      "url": "https://www.bilibili.com/video/BV1gy4y1q7cC"
-    }
+    "category": "名言"
   }
+,
+  {
+    "name": "自我介绍-日",
+    "path": "自我介绍-日.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "自我介绍-日",
+      "en-US": "自我介绍-日"
+    },
+    "category": "名言"
+  }
+,
+  {
+    "name": "哈↑哈↓大白猫",
+    "path": "哈↑哈↓大白猫.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "哈↑哈↓大白猫",
+      "en-US": "哈↑哈↓大白猫"
+    },
+    "category": "名言"
+  }
+,
+  {
+    "name": "我是猫",
+    "path": "我是猫.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "我是猫",
+      "en-US": "我是猫"
+    },
+    "category": "名言"
+  }
+,
+  {
+    "name": "不是",
+    "path": "不是.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "不是",
+      "en-US": "不是"
+    },
+    "category": "名言"
+  }
+,
+  {
+    "name": "狼",
+    "path": "狼.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "狼",
+      "en-US": "狼"
+    },
+    "category": "名言"
+  }
+,  {
+  "name": "我是",
+  "path": "我是.mp3",
+  "date": "2024-06-16",
+  "translate": {
+    "zh-CN": "我是",
+    "en-US": "我是"
+  },
+  "category": "名言"
+}
+,
+  {
+    "name": "猫",
+    "path": "猫.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "猫",
+      "en-US": "猫"
+    },
+    "category": "名言"
+  }
+,
+  {
+    "name": "喵_1",
+    "path": "喵_1.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "喵_1",
+      "en-US": "喵_1"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "喵_2",
+    "path": "喵_2.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "喵_2",
+      "en-US": "喵_2"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "喵_3",
+    "path": "喵_3.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "喵_3",
+      "en-US": "喵_3"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "喵_4",
+    "path": "喵_4.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "喵_4",
+      "en-US": "喵_4"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "喵_5",
+    "path": "喵_5.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "喵_5",
+      "en-US": "喵_5"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "喵_6",
+    "path": "喵_6.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "喵_6",
+      "en-US": "喵_6"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "喵_7",
+    "path": "喵_7.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "喵_7",
+      "en-US": "喵_7"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "雪月喵",
+    "path": "雪月喵.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "雪月喵",
+      "en-US": "雪月喵"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "喵和老鼠",
+    "path": "喵和老鼠.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "喵和老鼠",
+      "en-US": "喵和老鼠"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "嗷",
+    "path": "嗷.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "嗷呜",
+      "en-US": "嗷呜"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "嗯嗯嗯嗯",
+    "path": "嗯嗯嗯嗯.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "嗯↑嗯↑嗯↑嗯↑嗯↑嗯↑",
+      "en-US": "嗯嗯嗯嗯"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "猫生气",
+    "path": "猫生气.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "气急败坏",
+      "en-US": "气急败坏"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "猫の哭",
+    "path": "猫の哭.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "哭哭",
+      "en-US": "哭哭"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "啊!",
+    "path": "啊-2.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "啊!",
+      "en-US": "啊!"
+    },
+    "category": "猫叫"
+  }
+,
+
+  {
+    "name": "嗯嗯s",
+    "path": "嗯嗯.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "嗯嗯!",
+      "en-US": "嗯嗯!"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "yaho",
+    "path": "yaho.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "yaho~",
+      "en-US": "yaho~"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "mu",
+    "path": "mu.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "miu~",
+      "en-US": "miu~"
+    },
+    "category": "猫叫"
+  }
+,
+
+  {
+    "name": "daisuki",
+    "path": "daisuki.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "daisuki~",
+      "en-US": "daisuki~"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "hi",
+    "path": "hi.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "hi",
+      "en-US": "hi"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "ham",
+    "path": "ham.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "hamham",
+      "en-US": "hamham"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "呐",
+    "path": "呐.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "呐",
+      "en-US": "呐"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "ma",
+    "path": "ma.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "ma",
+      "en-US": "ma"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "看",
+    "path": "看.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "怎么样",
+      "en-US": "怎么样"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "不是猫耳",
+    "path": "不是猫耳.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "不是猫耳",
+      "en-US": "不是猫耳"
+    },
+    "category": "名言"
+  },
+  {
+    "name": "大家要好好的看那艾尔莎哦",
+    "path": "大家要好好的看那艾尔莎哦.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "大家要好好的看者艾尔莎哦",
+      "en-US": "大家要好好的看者艾尔莎哦"
+    },
+    "category": "名言"
+  },
+
+  {
+    "name": "a",
+    "path": "a.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "啊~",
+      "en-US": "啊~"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "ang",
+    "path": "ang.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "(*￣︿￣)",
+      "en-US": "(*￣︿￣)"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "en",
+    "path": "en.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "（｀へ´）",
+      "en-US": "（｀へ´）"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "en01",
+    "path": "en01.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "(╬▔皿▔)",
+      "en-US": "(╬▔皿▔)"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "莎の笑",
+    "path": "莎の笑.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "莎の笑",
+      "en-US": "莎の笑"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "莎の笑-2",
+    "path": "莎の笑-2.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "莎の笑-2",
+      "en-US": "莎の笑-2"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "不喜欢这个-1.mp3",
+    "path": "不喜欢这个-1.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "不喜欢这个",
+      "en-US": "不喜欢这个"
+    },
+    "category": "猫叫"
+  }
+,{
+    "name": "我好了",
+    "path": "我好了.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "我好了",
+      "en-US": "我好了"
+    },
+    "category": "怪话"
+  }
+,
+
+  {
+    "name": "让我摸摸你的牛至",
+    "path": "让我摸摸你的牛至.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "让我摸摸你的牛至",
+      "en-US": "让我摸摸你的牛至"
+    },
+    "category": "怪话"
+  }
+,
+
+  {
+    "name": "艾尔莎的未来大不大",
+    "path": "艾尔莎的未来大不大.mp3",
+    "date": "2024-06-16",
+    "translate": {
+      "zh-CN": "艾尔莎的未来",
+      "en-US": "艾尔莎的未来"
+    },
+    "category": "怪话"
+  },
+  {
+    "name": "伸懒腰",
+    "path": "伸懒腰.mp3",
+    "date": "2024-08-12",
+    "translate": {
+      "zh-CN": "伸懒腰",
+      "en-US": "伸懒腰"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "钉宫三连",
+    "path": "钉宫三连.mp3",
+    "date": "2024-08-29",
+    "translate": {
+      "zh-CN": "钉宫三连",
+      "en-US": "钉宫三连"
+    },
+    "category": "猫叫"
+  }
+
+
+,
+  {
+    "name": "kilakila",
+    "path": "kilakila.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "萌萌蛋包饭",
+      "en-US": "萌萌蛋包饭"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "mua",
+    "path": "mua.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "mua",
+      "en-US": "mua"
+    },
+    "category": "猫叫"
+  }
+
+
+,
+  {
+    "name": "Nya~~",
+    "path": "Nya~~.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "Nya~~",
+      "en-US": "Nya~~"
+    },
+    "category": "猫叫"
+  }
+
+
+,
+  {
+    "name": "八百标兵奔北坡",
+    "path": "八百标兵奔北坡.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "八百标兵奔北坡",
+      "en-US": "八百标兵奔北坡"
+    },
+    "category": "猫叫"
+  }
+
+
+,
+  {
+    "name": "打哈欠",
+    "path": "打哈欠.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "打哈欠",
+      "en-US": "打哈欠"
+    },
+    "category": "猫叫"
+  }
+
+
+,
+  {
+    "name": "打呼噜",
+    "path": "打呼噜.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "打呼噜",
+      "en-US": "打呼噜"
+    },
+    "category": "猫叫"
+  }
+
+
+,
+  {
+    "name": "汪",
+    "path": "狗叫.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "汪 汪汪",
+      "en-US": "汪 汪汪"
+    },
+    "category": "猫叫"
+  }
+
+
+,
+  {
+    "name": "害怕温柔日语",
+    "path": "害怕温柔日语.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "怖い",
+      "en-US": "怖い"
+    },
+    "category": "猫叫"
+  }
+
+
+,
+  {
+    "name": "很臭的叫声",
+    "path": "很臭的叫声.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "很臭的叫声",
+      "en-US": "很臭的叫声"
+    },
+    "category": "猫叫"
+  }
+
+
+,
+  {
+    "name": "哼马里奥食人花之歌",
+    "path": "哼马里奥食人花之歌.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "食人花进行曲",
+      "en-US": "食人花进行曲"
+    },
+    "category": "猫叫"
+  }
+
+
+,
+  {
+    "name": "哼音调",
+    "path": "哼音调.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "哼音调",
+      "en-US": "哼音调"
+    },
+    "category": "猫叫"
+  }
+
+
+,
+  {
+    "name": "懒床声音",
+    "path": "懒床声音.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "懒床声音",
+      "en-US": "懒床声音"
+    },
+    "category": "猫叫"
+  }
+
+
+,
+  {
+    "name": "没办法嘛日语",
+    "path": "没办法嘛日语.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "仕方がない",
+      "en-US": "仕方がない"
+    },
+    "category": "猫叫"
+  }
+
+
+,
+  {
+    "name": "我是一只快乐的小猫咪",
+    "path": "我是一只快乐的小猫咪.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "我是一只快乐的小猫咪",
+      "en-US": "我是一只快乐的小猫咪"
+    },
+    "category": "猫叫"
+  }
+
+
+,
+  {
+    "name": "我最喜欢你了日语",
+    "path": "我最喜欢你了日语.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "大好き",
+      "en-US": "大好き"
+    },
+    "category": "猫叫"
+  }
+
+
+,
+  {
+    "name": "一堆哥哥哥",
+    "path": "一堆哥哥哥.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "哥哥哥 x N",
+      "en-US": "哥哥哥 x N"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "yue",
+    "path": "e.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "yue",
+      "en-US": "yue"
+    },
+    "category": "猫叫"
+  }
+
+,
+  {
+    "name": "hi-1",
+    "path": "hi-1.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "嗨⬇",
+      "en-US": "嗨⬇"
+    },
+    "category": "猫叫"
+  }
+
+
+,
+  {
+    "name": "不喜欢这个",
+    "path": "不喜欢这个.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "不喜欢这个 2",
+      "en-US": "不喜欢这个 2"
+    },
+    "category": "猫叫"
+  }
+,
+  {
+    "name": "嗷呜",
+    "path": "嗷呜.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "嗷呜~",
+      "en-US": "嗷呜~"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "嗷呜2",
+    "path": "嗷呜2.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "嗷呜~ 嗷呜~",
+      "en-US": "嗷呜~ 嗷呜~"
+    },
+    "category": "猫叫"
+  },
+
+  {
+    "name": "狼~",
+    "path": "狼~.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "狼~",
+      "en-US": "狼~"
+    },
+    "category": "名言"
+  },
+  {
+    "name": "大白猫",
+    "path": "大白猫.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "大白猫",
+      "en-US": "大白猫"
+    },
+    "category": "名言"
+  },
+  {
+    "name": "喵-汪",
+    "path": "喵-汪.mp3",
+    "date": "2024-08-30",
+    "translate": {
+      "zh-CN": "喵! 汪!",
+      "en-US": "喵! 汪!"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "打屁股",
+    "path": "打屁股.mp3",
+    "date": "2024-09-05",
+    "translate": {
+      "zh-CN": "打屁股",
+      "en-US": "打屁股"
+    },
+    "category": "猫叫"
+  }
+,  {
+  "name": "啊 你给我去死吧",
+  "path": "啊 你给我去死吧.mp3",
+  "date": "2024-09-08",
+  "translate": {
+    "zh-CN": "你给我去死吧",
+    "en-US": "你给我去死吧"
+  },
+  "category": "猫叫"
+},
+  {
+    "name": "主人的小狐狸",
+    "path": "主人的小狐狸.mp3",
+    "date": "2024-09-12",
+    "translate": {
+      "zh-CN": "主人的小狐狸",
+      "en-US": "主人的小狐狸"
+    },
+    "category": "猫叫"
+  },  {
+  "name": "眼镜蛇",
+  "path": "眼镜蛇.mp3",
+  "date": "2024-09-12",
+  "translate": {
+    "zh-CN": "眼镜蛇",
+    "en-US": "眼镜蛇"
+  },
+  "category": "猫叫"
+},  {
+  "name": "发生什么事了",
+  "path": "发生什么事了.mp3",
+  "date": "2024-09-12",
+  "translate": {
+    "zh-CN": "发生什么事了",
+    "en-US": "发生什么事了"
+  },
+  "category": "猫叫"
+},  {
+  "name": "草泥马喵喵喵",
+  "path": "草泥马.mp3",
+  "date": "2024-09-12",
+  "translate": {
+    "zh-CN": "草泥马喵喵喵",
+    "en-US": "草泥马喵喵喵"
+  },
+  "category": "猫叫"
+}
+
 ]

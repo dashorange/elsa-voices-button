@@ -5,5 +5,20 @@
       "zh-CN": "猫猫名言~",
       "en-US": "Witticisms~"
     }
+  },
+  {
+  "name": "猫叫",
+  "translate": {
+    "zh-CN": "猫叫~",
+    "en-US": "miao~"
+  }
+}
+,
+  {
+    "name": "怪话",
+    "translate": {
+      "zh-CN": "怪话",
+      "en-US": "怪话"
+    }
   }
 ]
