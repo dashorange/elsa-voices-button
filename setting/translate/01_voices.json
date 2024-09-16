@@ -968,5 +968,105 @@
       "en-US": "嘤-3"
     },
     "category": "猫叫"
+  },
+  {
+    "name": "奶茶☆是小猪猪",
+    "path": "奶茶☆是小猪猪.mp3",
+    "date": "2024-09-16",
+    "translate": {
+      "zh-CN": "奶茶☆是小猪猪",
+      "en-US": "奶茶☆是小猪猪"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "莎车",
+    "path": "莎车.mp3",
+    "date": "2024-09-16",
+    "translate": {
+      "zh-CN": "莎车",
+      "en-US": "莎车"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "收废品",
+    "path": "收废品.mp3",
+    "date": "2024-09-16",
+    "translate": {
+      "zh-CN": "收废品",
+      "en-US": "收废品"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "我要当一只快乐的猫咪",
+    "path": "我要当一只快乐的猫咪.mp3",
+    "date": "2024-09-16",
+    "translate": {
+      "zh-CN": "我要当一只快乐的猫咪",
+      "en-US": "我要当一只快乐的猫咪"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "21世纪莎克斯",
+    "path": "21世纪莎克斯.mp3",
+    "date": "2024-09-16",
+    "translate": {
+      "zh-CN": "21世纪莎克斯",
+      "en-US": "21世纪莎克斯"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "双击666 火箭刷起来",
+    "path": "双击666.mp3",
+    "date": "2024-09-16",
+    "translate": {
+      "zh-CN": "双击666 火箭刷起来",
+      "en-US": "双击666 火箭刷起来"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "草泥马mua",
+    "path": "草泥马mua.mp3",
+    "date": "2024-09-16",
+    "translate": {
+      "zh-CN": "草泥马mua",
+      "en-US": "草泥马mua"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "不许立直",
+    "path": "不许立直.mp3",
+    "date": "2024-09-16",
+    "translate": {
+      "zh-CN": "不许立直",
+      "en-US": "不许立直"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "The World",
+    "path": "The World.mp3",
+    "date": "2024-09-16",
+    "translate": {
+      "zh-CN": "The World",
+      "en-US": "The World"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "muamuamua",
+    "path": "muamuamua.mp3",
+    "date": "2024-09-16",
+    "translate": {
+      "zh-CN": "muamuamua",
+      "en-US": "muamuamua"
+    },
+    "category": "猫叫"
   }
 ]
