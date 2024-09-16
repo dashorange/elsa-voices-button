@@ -1,5 +1,5 @@
 {
-  "i18n": true,
+  "i18n": false,
   "neko_mimi": true,
   "name": {
     "CN": {
@@ -7,16 +7,16 @@
       "fullName": ""
     },
     "EN": {
-      "title": "Elsa Voives Button",
+      "title": "艾尔莎按钮",
       "fullName": ""
     }
   },
   "readme": "",
   "header": {
-    "icon": "img/logo.svg",
+    "icon": "favicon.png",
     "youtube": "",
     "twitter": "",
-    "bilibili": ""
+    "bilibili": "https://space.bilibili.com/1521415/"
   },
   "related": [],
   "link": [
