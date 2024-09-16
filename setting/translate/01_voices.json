@@ -327,7 +327,7 @@
       "zh-CN": "大家要好好的看者艾尔莎哦",
       "en-US": "大家要好好的看者艾尔莎哦"
     },
-    "category": "名言"
+    "category": "怪话"
   },
   {
     "name": "a",
@@ -1068,5 +1068,25 @@
       "en-US": "muamuamua"
     },
     "category": "猫叫"
+  },
+  {
+    "name": "彩虹喵",
+    "path": "彩虹喵.mp3",
+    "date": "2024-09-16",
+    "translate": {
+      "zh-CN": "彩虹喵",
+      "en-US": "彩虹喵"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "难道我不行吗",
+    "path": "艾尔莎模仿JK_纯享版.mp3",
+    "date": "2024-09-16",
+    "translate": {
+      "zh-CN": "难道我不行吗",
+      "en-US": "难道我不行吗"
+    },
+    "category": "怪话"
   }
 ]
