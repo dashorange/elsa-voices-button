@@ -1178,5 +1178,135 @@
       "en-US": "伸懒腰 ~~"
     },
     "category": "猫叫"
+  },
+  {
+    "name": "谁来日日我",
+    "path": "谁来日日我.MP3",
+    "date": "2024-10-21",
+    "translate": {
+      "zh-CN": "谁来日日我",
+      "en-US": "谁来日日我"
+    },
+    "category": "怪话"
+  },
+  {
+    "name": "喷嚏",
+    "path": "喷嚏.MP3",
+    "date": "2024-10-21",
+    "translate": {
+      "zh-CN": "喷嚏",
+      "en-US": "喷嚏"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "陆行鸟之歌",
+    "path": "陆行鸟之歌喵版.MP3",
+    "date": "2024-10-21",
+    "translate": {
+      "zh-CN": "陆行鸟之歌",
+      "en-US": "陆行鸟之歌"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "老婆",
+    "path": "老婆.MP3",
+    "date": "2024-10-21",
+    "translate": {
+      "zh-CN": "老婆",
+      "en-US": "老婆"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "老公",
+    "path": "老公.MP3",
+    "date": "2024-10-21",
+    "translate": {
+      "zh-CN": "老公",
+      "en-US": "老公"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "磕脚尖叫",
+    "path": "磕脚尖叫.MP3",
+    "date": "2024-10-21",
+    "translate": {
+      "zh-CN": "磕脚尖叫",
+      "en-US": "磕脚尖叫"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "假哭",
+    "path": "假哭.MP3",
+    "date": "2024-10-21",
+    "translate": {
+      "zh-CN": "假哭",
+      "en-US": "假哭"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "哈基米",
+    "path": "哈基米.MP3",
+    "date": "2024-10-21",
+    "translate": {
+      "zh-CN": "哈基米",
+      "en-US": "哈基米"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "怪叫嗷嗷",
+    "path": "怪叫嗷嗷.MP3",
+    "date": "2024-10-21",
+    "translate": {
+      "zh-CN": "怪叫嗷嗷",
+      "en-US": "怪叫嗷嗷"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "抽屁股",
+    "path": "抽屁股.MP3",
+    "date": "2024-10-21",
+    "translate": {
+      "zh-CN": "抽屁股",
+      "en-US": "抽屁股"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "不知道该怎么说的怪叫",
+    "path": "不知道该怎么说的怪叫.MP3",
+    "date": "2024-10-21",
+    "translate": {
+      "zh-CN": "不知道该怎么说的怪叫",
+      "en-US": "不知道该怎么说的怪叫"
+    },
+    "category": "猫叫"
+  },
+  {
+    "name": "艾薯条也很可爱呢",
+    "path": "艾薯条也很可爱呢.MP3",
+    "date": "2024-10-21",
+    "translate": {
+      "zh-CN": "艾薯条也很可爱呢",
+      "en-US": "艾薯条也很可爱呢"
+    },
+    "category": "怪话"
+  },
+  {
+    "name": "艾薯条都太快了啦",
+    "path": "艾薯条都太快了啦.MP3",
+    "date": "2024-10-21",
+    "translate": {
+      "zh-CN": "艾薯条都太快了啦",
+      "en-US": "艾薯条都太快了啦"
+    },
+    "category": "怪话"
   }
 ]
